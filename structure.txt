@@ -1,0 +1,12 @@
+BudgetApp/
+│
+├── main.py
+│
+├── app_pages/
+│   ├── home_page.py
+│   ├── query_data_page.py
+│   ├── insert_data_page.py
+│
+└── utils/
+    ├── auth.py
+    ├── db.py
